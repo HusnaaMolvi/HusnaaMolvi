@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![](https://bloomingtables.com/cdn/shop/products/file_22981_1200x1200.jpg?v=1645473883)
+![](https://bloomingtables.com/cdn/shop/products/file_22981_1200x1200.jpg?v=1645473883 width="600" height="300")
 <!--
 **HusnaaMolvi/HusnaaMolvi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
