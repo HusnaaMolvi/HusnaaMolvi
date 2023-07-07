@@ -4,11 +4,12 @@
 
 <img src="https://bloomingtables.com/cdn/shop/products/file_22981_1200x1200.jpg?v=1645473883" style=" width:900px ; height:450px ">
 
-## A little about me
+## A Little About Me
  - 👩‍🎓 BSc in Info Tech in Computer Science and Informatics
  - 🎓 Still working on my BScHons in Information Technology (AI and Information Security are certainly interesting)
  - 💻 More of a backend person but am interested in improving my frontend skills
  - 📈 Trying to keep up with all the amazing developments in IT
+ - 📖 And ofcourse, I am a reader ♥
 
 ## Tech Stack (For now)
 <!--
