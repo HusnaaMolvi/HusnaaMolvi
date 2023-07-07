@@ -11,7 +11,7 @@
  - 📈 Trying to keep up with all the amazing developments in IT
 
 ## Tech Stack (For now)
- -  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/1200px-HTML5_logo_and_wordmark.svg.png" alt="loz" style="width:50%">
+ -  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/1200px-HTML5_logo_and_wordmark.svg.png" alt="loz" style="width:60px ; height:60px">
  - 
 <!--
 **HusnaaMolvi/HusnaaMolvi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
