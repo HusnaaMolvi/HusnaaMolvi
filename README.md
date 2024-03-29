@@ -1,8 +1,6 @@
 # Hi there 👋👋
 ## Welcome to my page 😀😀
-### Oh, the desk? 👇👇 That is what I hope to have my home workspace look like but with a much bigger desk and comfy chair 🤞🤞
 
-<img src="https://bloomingtables.com/cdn/shop/products/file_22981_1200x1200.jpg?v=1645473883" style=" width:900px ; height:450px ">
 
 ## A Little About Me
  - 👩‍🎓 BSc in Info Tech in Computer Science and Informatics
